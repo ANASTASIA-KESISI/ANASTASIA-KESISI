@@ -79,9 +79,11 @@
 
 ### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Gmail-kesisianastasia%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kesisianastasia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Anastasia%20Kesisi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-kesisi-273430303/)
-[![GitHub](https://img.shields.io/badge/GitHub-ANASTASIA--KESISI-181717?style=flat-square&logo=github)](https://github.com/ANASTASIA-KESISI)
+[![Email](https://img.shields.io/badge/Gmail-kesisianastasia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kesisianastasia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Anastasia%20Kesisi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-kesisi-273430303/)
+[![GitHub](https://img.shields.io/badge/GitHub-ANASTASIA--KESISI-181717?style=for-the-badge&logo=github)](https://github.com/ANASTASIA-KESISI)
+[![Salesforce Trailhead](https://img.shields.io/badge/-Visit%20My%20Trailhead%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/anastasiakesisi)
+
 
 ---
 
